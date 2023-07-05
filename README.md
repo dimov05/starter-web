@@ -2,7 +2,7 @@
 This is a simple Web Project
 ## Introduction
 This is a simple Introduction. Adding a simple line.
-More changes to myfeature branch
+More changes to myfeature branch in case of rebasing.
 ## Deployment
 
 ## Purpose
