@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   Dimo -- Intern Java Developer -- No twitter
 
 # THANKS
 

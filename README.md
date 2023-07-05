@@ -7,7 +7,8 @@ This is a simple Introduction
 ## Purpose
 This is the Purpose of the Project
 ## How To Contribute
-
+	
+Please fork this Repo and issue a Pull Request!
 ### Copyright
 
 2023.Copyright
